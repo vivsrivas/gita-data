@@ -1,5 +1,10 @@
 [
   {
+    "id": 0,
+    "title": "उपोध्यात — Introduction",
+    "summary": "Introduction to the context and setting of the Bhagavad Gītā within the Mahābhārata."
+  },
+  {
     "id": 1,
     "title": "अर्जुनविषादयोगः — Arjuna Viṣāda Yoga (The Yoga of Arjuna’s Despondency)",
     "summary": "Arjuna’s moral and emotional crisis on the battlefield leads to his plea for guidance.",
@@ -48,6 +53,7 @@
       "1.42",
       "1.43",
       "1.44",
+      "1.45",
       "1.46",
       "1.47"
     ]
