@@ -1,0 +1,260 @@
+{
+    "data":[
+        {
+            "pada": "धृतराष्ट्रः",
+            "subanta":{
+                "prakriti": "धृतराष्ट्र",
+                "linga": "पुं",
+                "vachana": "एक",
+                "vibhakti": "1",
+                "hindi_meaning": "धृतराष्ट्र",
+                "english_meaning": "Dhritarashtra",
+                "derivational_meaning": "धृता राष्ट्र इति धृतराष्ट्रः"
+            }
+        },
+        {
+            "pada": "उवाच",
+            "sanskrit": "उवाच,",
+            "dhatu": {
+                "root": "वच्",
+                "lakara": "लिट्",
+                "padi": "परस्मैपदी",
+                "purusha": "प्र",
+                "vachana": "एक",
+                "hindi_meaning": "कहा",
+                "english_meaning": "said"
+            }
+        },
+        {
+            "pada": "सञ्जय",
+            "sanskrit": "भो सञ्जय,",
+            "subanta":{
+                "prakriti": "सञ्जय",
+                "linga": "पुं",
+                "vachana": "एक",
+                "vibhakti": "8",
+                "hindi_meaning": "हे संजय",
+                "english_meaning": "O Sanjaya!",
+                "derivational_meaning": "सम्यक् जयतीति सञ्जयः"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "सम्यक्",
+                        "meaning": "सम्यक्"
+                    },
+                    {
+                        "pada": "जयती",
+                        "meaning": "जयती"
+                    }
+                ],
+                "type": "तत्पुरुष समास",
+                "vigraha": "यः सम्यक् जयतीति सञ्जयः"
+            }
+        },
+        {
+            "pada": "धर्मक्षेत्रे",
+            "subanta":{
+                "prakriti": "धर्मन् क्षेत्र",
+                "linga": "नपुं",
+                "vachana": "एक",
+                "vibhakti": "7",
+                "hindi_meaning": "धर्मक्षेत्र में",
+                "english_meaning": "in the field of dharma",
+                "derivational_meaning": "धर्मः क्षेत्रेति धर्मक्षेत्रे"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "धर्म",
+                        "meaning": "धर्म"
+                    },
+                    {
+                        "pada": "क्षेत्रे",
+                        "meaning": "क्षेत्रे"
+                    }
+                ],
+                "type": "षष्ठीतत्पुरुषः",
+                "vigraha": "धर्मस्य क्षेत्रम् धर्मक्षेत्रम् तस्मिन् धर्मक्षेत्रे"
+            }
+        },
+        {
+            "pada": "कुरुक्षेत्रे",
+            "subanta":{
+                "prakriti": "कुरु क्षेत्र",
+                "linga": "नपुं",
+                "vachana": "एक",
+                "vibhakti": "7",
+                "hindi_meaning": "कुरुक्षेत्र में",
+                "english_meaning": "in the field of the Kurus",
+                "derivational_meaning": "कुरुः क्षेत्रेति कुरुक्षेत्रे"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "कुरु",
+                        "meaning": "कुरु"
+                    },
+                    {
+                        "pada": "क्षेत्रे",
+                        "meaning": "क्षेत्रे"
+                    }
+                ],
+                "type": "षष्ठीतत्पुरुषः",
+                "vigraha": "कुरुणाम् क्षेत्रम् कुरुक्षेत्रम् तस्मिन् कुरुक्षेत्रे"
+            }
+        },
+        {
+            "pada": "समवेता",
+            "subanta":{
+                "linga": "स्त्री",
+                "vachana": "बहु",
+                "vibhakti": "1",
+                "hindi_meaning": "एकत्रित हुई हुई",
+                "english_meaning": "assembled together",
+                "derivational_meaning": "सम् वेतयितुम् इति समवेता"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "सम्",
+                        "meaning": "सहितम्"
+                    },
+                    {
+                        "pada": "वेतयितुम्",
+                        "meaning": "वेतयितुम्"
+                    }
+                ],
+                "type": "द्वन्द्व समास",
+                "vigraha": "याः सम् वेतयितुम् ताः समवेताः"
+            }
+        },
+        {
+            "pada": "युयुत्सवः",
+            "subanta":{
+                "linga": "पुं",
+                "vachana": "एक",
+                "vibhakti": "1",
+                "hindi_meaning": "युद्ध करने के इच्छुक",
+                "english_meaning": "eager to fight",
+                "derivational_meaning": "युयुत्सुम् इच्छन्ति इति युयुत्सवः"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "युयुत्सुम्",
+                        "meaning": "युद्ध करने के इच्छुक"
+                    }
+                ],
+                "type": "अव्ययीभाव समास",
+                "vigraha": "यः युयुत्सुम् इच्छति स युयुत्सवः"
+            }
+        },
+        {
+            "pada": "मामकाः",
+            "subanta":{
+                "linga": "पुं",
+                "vachana": "बहु",
+                "vibhakti": "1",
+                "hindi_meaning": "मेरे लोग",
+                "english_meaning": "my people",
+                "derivational_meaning": "मम कः इति मामकाः"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "मम",
+                        "meaning": "मेरा"
+                    },
+                    {
+                        "pada": "कः",
+                        "meaning": "लोग"
+                    }
+                ],
+                "type": "तत्पुरुष समास",
+                "vigraha": "याः मम कः ताः मामकाः"
+            }
+        },
+        {
+            "pada": "पाण्डवाः",
+            "subanta":{
+                "linga": "पुं",
+                "vachana": "बहु",
+                "vibhakti": "1",
+                "hindi_meaning": "पाण्डु के पुत्र",
+                "english_meaning": "sons of Pandu",
+                "derivational_meaning": "पाण्डु इति पाण्डवाः"
+            },
+            "samasa": {
+                "components": [
+                    {
+                        "pada": "पाण्डु",
+                        "meaning": "पाण्डु"
+                    },
+                    {
+                        "pada": "वत्",
+                        "meaning": "पुत्र"
+                    }
+                ],
+                "type": "तत्पुरुष समास",
+                "vigraha": "याः पाण्डु वत् ताः पाण्डवाः"
+            }
+        },
+        {
+            "pada": "च",
+            "subanta":{
+                "type": "अव्यय",
+                "hindi_meaning": "और",
+                "english_meaning": "and"
+            },
+            "sandhi_rules": []
+        },
+        {
+            "pada": "एव",
+            "subanta":{
+                "type": "अव्यय",
+                "hindi_meaning": "एव",
+                "english_meaning": "certainly"
+            }
+        },
+        {
+            "pada": "किम्",
+            "subanta":{
+                "linga": "अव्यय",
+                "vachana": "",
+                "vibhakti": "",
+                "hindi_meaning": "क्या",
+                "english_meaning": "what",
+                "derivational_meaning": "किम् इति किम्"
+            }
+        },
+        {
+            "pada": "अकुर्वत",
+            "dhatu": {
+                "root": "कृ",
+                "lakara": "लङ्",
+                "padi": "आत्मनेपदी",
+                "purusha": "प्र",
+                "vachana": "बहु",
+                "hindi_meaning": "किया",
+                "english_meaning": "did they do"
+            }
+        }
+    ],
+    "sandhi_rules": [
+        {
+            "samast_pada" : "धृतराष्ट्र उवाच",
+            "rules_applied" : [
+                { "components": ["धृतराष्ट्रस्", "उवाच"], "sutra": "ससजुषो रुः", "panini_kramanka": "8.2.66", "result": "धृतराष्ट्र र् (रु) उवाच" },
+                { "components" : ["धृतराष्ट्र", "र् (रु)", "उवाच"], "sutra": "भो भगो अघो अपूर्वस्य योऽशि", "panini_kramanka": "8.3.17", "result": "धृतराष्ट्र य् उवाच"},
+                { "components": ["धृतराष्ट्र", "य्", "उवाच"], "sutra": "लोपः शाकल्यस्य", "panini_kramanka": "8.3.19", "result": "धृतराष्ट्र उवाच" }
+            ]
+        },
+        {
+            "samast_pada" : "चैव",
+            "rules_applied" : [
+                { "components": ["च", "एव"], "sutra": "वृद्धिरेचि", "panini_kramanka": "6.1.88", "result": "चैव" }
+            ]
+        }
+    ]
+}

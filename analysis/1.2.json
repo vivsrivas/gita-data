@@ -1,0 +1,121 @@
+{
+    "data" : [
+        {
+            "pada": "सञ्जय",
+            "subanta":{
+                "prakriti": "सञ्जय",
+                "linga": "पुं",
+                "vachana": "एक",
+                "vibhakti": "1",
+                "hindi_meaning": "सञ्जय",
+                "english_meaning": "सञ्जय"
+            }
+        },
+        {
+            "pada": "उवाच",
+            "sanskrit": "उवाच,",
+            "dhatu": {
+                "root": "वच्",
+                "lakara": "लिट्",
+                "padi": "परस्मैपदी",
+                "purusha": "प्र",
+                "vachana": "एक",
+                "hindi_meaning": "कहा",
+                "english_meaning": "said"
+            }
+        },
+        {
+            "pada": "तदा"
+        },
+        {
+            "pada": "राजा"
+        },
+        {
+            "pada": "दुर्योधनः"
+        },
+        {
+            "pada": "व्युढम्",
+            "subanta":{
+                "prakriti": "व्यूढ",
+                "linga": "पुं",
+                "vachana": "एक",
+                "vibhakti": "2",
+                "hindi_meaning": "व्यूह को",
+                "english_meaning": "the array"
+            }
+        },
+        {
+            "pada": "पाण्डवानीकं",
+            "subanta":{
+                "prakriti": "पाण्डवानीकम्",
+                "linga": "नपुं",
+                "vachana": "एक",
+                "vibhakti": "2",
+                "hindi_meaning": "पाण्डवों की सेना को",
+                "english_meaning": "the army of the Pandavas"
+            }
+        },
+        {
+            "pada": "दृष्ट्वा",
+            "subanta":{
+                "prakriti": "दृश् तृ",
+                "type": "अव्यय",
+                "hindi_meaning": "देखकर",
+                "english_meaning": "having seen"            
+            }
+        },
+        {
+            "pada": "तु",
+            "subanta":{
+                "prakriti": "तु",
+                "type": "अव्यय",
+                "hindi_meaning": "परन्तु",
+                "english_meaning": "but"
+            }
+        },
+        {
+            "pada": "आचार्यम्"
+        },
+        {
+            "pada": "उपसङ्गम्य"
+        },
+        {
+            "pada": "वचनम्"
+        },
+        {
+            "pada": "अब्रवीत्",
+            "dhatu": {
+                "root": "ब्रूञ्",
+                "lakara": "लङ्",
+                "padi": "परस्मैपदी",
+                "purusha": "प्र",
+                "vachana": "एक",
+                "hindi_meaning": "कहा",
+                "english_meaning": "said"
+            }
+        }
+    ],
+    "kridantas": [
+        {
+            "pada": "दृष्ट्वा",
+            "dhatu_root": "दृशिँर् प्रेक्षणे (भ्वादिः परस्मैपदी सकर्मकः अनिट्)",
+            "upsarga": null,
+            "abihita": "कर्ता",
+            "kriya": "दृर्शनम्",
+            "kriya_meaning": "देखना",
+            "pratyeya": "कत्वा",
+            "krid_vritti": "",
+            "kala": "भूतकाल"
+        }
+    ],
+    "sandhi_rules": [
+        {
+            "samast_pada" : "सञ्जय उवाच",
+            "rules_applied" : [
+                { "components": ["सञ्जयस्", "उवाच"], "sutra": "ससजुषो रुः", "panini_kramanka": "8.2.66", "result": "सञ्जय र् (रु) उवाच" },
+                { "components" : ["सञ्जय", "र् (रु)", "उवाच"], "sutra": "भो भगो अघो अपूर्वस्य योऽशि", "panini_kramanka": "8.3.17", "result": "सञ्जय य् उवाच"},
+                { "components": ["सञ्जय", "य्", "उवाच"], "sutra": "लोपः शाकल्यस्य", "panini_kramanka": "8.3.19", "result": "सञ्जय उवाच" }
+            ]
+        }
+    ]
+}
