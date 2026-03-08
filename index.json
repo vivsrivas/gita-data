@@ -405,7 +405,8 @@
     "verse": 5,
     "sanskrit": "गुरूनहत्वा हि महानुभावान्        श्रेयो भोक्तुं भैक्ष्यमपीह लोके । हत्वार्थकामांस्तु गुरूनिहैव        भुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥ २-५ ॥",
     "translation": "",
-    "itrans": "gurUnahatvA hi mahAnubhAvAn.h        shreyo bhoktuM bhaikShyamapIha loke . hatvArthakAmA.nstu gurUnihaiva        bhu~njIya bhogAn rudhirapradigdhAn .. 2-5 .."
+    "itrans": "gurUnahatvA hi mahAnubhAvAn.h        shreyo bhoktuM bhaikShyamapIha loke . hatvArthakAmA.nstu gurUnihaiva        bhu~njIya bhogAn rudhirapradigdhAn .. 2-5 ..",
+    "four_pada": true
   },
   {
     "id": "2.6",
@@ -413,7 +414,8 @@
     "verse": 6,
     "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो        यद्वा जयेम यदि वा नो जयेयुः । यानेव हत्वा न जिजीविषामस्-        तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ॥ २-६ ॥",
     "translation": "",
-    "itrans": "na chaitadvidmaH kataranno garIyo        yadvA jayema yadi vA no jayeyuH . yAneva hatvA na jijIviShAmas-        te.avasthitAH pramukhe dhArtarAShTrAH .. 2-6 .."
+    "itrans": "na chaitadvidmaH kataranno garIyo        yadvA jayema yadi vA no jayeyuH . yAneva hatvA na jijIviShAmas-        te.avasthitAH pramukhe dhArtarAShTrAH .. 2-6 ..",
+    "four_pada": true
   },
   {
     "id": "2.7",
@@ -421,7 +423,8 @@
     "verse": 7,
     "sanskrit": "कार्पण्यदोषोपहतस्वभावः        पृच्छामि त्वां धर्मसम्मूढचेताः । यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे        शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥ २-७ ॥",
     "translation": "",
-    "itrans": "kArpaNyadoShopahatasvabhAvaH        pR^ichChAmi tvAM dharmasammUDhachetAH . yachChreyaH syAnnishchitaM brUhi tanme        shiShyaste.aha.n shAdhi mA.n tvAM prapannam .. 2-7 .."
+    "itrans": "kArpaNyadoShopahatasvabhAvaH        pR^ichChAmi tvAM dharmasammUDhachetAH . yachChreyaH syAnnishchitaM brUhi tanme        shiShyaste.aha.n shAdhi mA.n tvAM prapannam .. 2-7 ..",
+    "four_pada": true
   },
   {
     "id": "2.8",
@@ -429,7 +432,8 @@
     "verse": 8,
     "sanskrit": "न हि प्रपश्यामि ममापनुद्याद्        यच्छोकमुच्छोषणमिन्द्रियाणाम् । अवाप्य भूमावसपत्नमृद्धं        राज्यं सुराणामपि चाधिपत्यम् ॥ २-८ ॥",
     "translation": "",
-    "itrans": "na hi prapashyAmi mamApanudyAd.h        yachChokamuchChoShaNamindriyANAm . avApya bhUmAvasapatnamR^iddha.n        rAjya.n surANAmapi chAdhipatyam .. 2-8 .."
+    "itrans": "na hi prapashyAmi mamApanudyAd.h        yachChokamuchChoShaNamindriyANAm . avApya bhUmAvasapatnamR^iddha.n        rAjya.n surANAmapi chAdhipatyam .. 2-8 ..",
+    "four_pada": true
   },
   {
     "id": "2.9",
@@ -525,7 +529,8 @@
     "verse": 20,
     "sanskrit": "न जायते म्रियते वा कदाचिन्        नायं भूत्वा भविता वा न भूयः । अजो नित्यः शाश्वतोऽयं पुराणो        न हन्यते हन्यमाने शरीरे ॥ २-२० ॥",
     "translation": "",
-    "itrans": "na jAyate mriyate vA kadAchin.h        nAyaM bhUtvA bhavitA vA na bhUyaH . ajo nityaH shAshvato.ayaM purANo        na hanyate hanyamAne sharIre .. 2-20 .."
+    "itrans": "na jAyate mriyate vA kadAchin.h        nAyaM bhUtvA bhavitA vA na bhUyaH . ajo nityaH shAshvato.ayaM purANo        na hanyate hanyamAne sharIre .. 2-20 ..",
+    "four_pada": true
   },
   {
     "id": "2.21",
@@ -541,7 +546,8 @@
     "verse": 22,
     "sanskrit": "वासांसि जीर्णानि यथा विहाय        नवानि गृह्णाति नरोऽपराणि । तथा शरीराणि विहाय जीर्णा-        न्यन्यानि संयाति नवानि देही ॥ २-२२ ॥",
     "translation": "",
-    "itrans": "vAsA.nsi jIrNAni yathA vihAya        navAni gR^ihNAti naro.aparANi . tathA sharIrANi vihAya jIrNA-        nyanyAni sa.nyAti navAni dehI .. 2-22 .."
+    "itrans": "vAsA.nsi jIrNAni yathA vihAya        navAni gR^ihNAti naro.aparANi . tathA sharIrANi vihAya jIrNA-        nyanyAni sa.nyAti navAni dehI .. 2-22 ..",
+    "four_pada": true
   },
   {
     "id": "2.23",
@@ -597,7 +603,8 @@
     "verse": 29,
     "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेन-        माश्चर्यवद्वदति तथैव चान्यः । आश्चर्यवच्चैनमन्यः शृणोति        श्रुत्वाप्येनं वेद न चैव कश्चित् ॥ २-२९ ॥",
     "translation": "",
-    "itrans": "Ashcharyavatpashyati kashchidena-        mAshcharyavadvadati tathaiva chAnyaH . AshcharyavachchainamanyaH shR^iNoti        shrutvApyena.n veda na chaiva kashchit .. 2-29 .."
+    "itrans": "Ashcharyavatpashyati kashchidena-        mAshcharyavadvadati tathaiva chAnyaH . AshcharyavachchainamanyaH shR^iNoti        shrutvApyena.n veda na chaiva kashchit .. 2-29 ..",
+    "four_pada": true
   },
   {
     "id": "2.30",
@@ -925,7 +932,8 @@
     "verse": 70,
     "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं        समुद्रमापः प्रविशन्ति यद्वत् । तद्वत्कामा यं प्रविशन्ति सर्वे        स शान्तिमाप्नोति न कामकामी ॥ २-७० ॥",
     "translation": "",
-    "itrans": "ApUryamANamachalapratiShTha.n        samudramApaH pravishanti yadvat . tadvatkAmA yaM pravishanti sarve        sa shAntimApnoti na kAmakAmI .. 2-70 .."
+    "itrans": "ApUryamANamachalapratiShTha.n        samudramApaH pravishanti yadvat . tadvatkAmA yaM pravishanti sarve        sa shAntimApnoti na kAmakAmI .. 2-70 ..",
+    "four_pada": true
   },
   {
     "id": "2.71",
@@ -2525,7 +2533,8 @@
     "verse": 9,
     "sanskrit": "कविं पुराणमनुशासितार-        मणोरणीयंसमनुस्मरेद्यः । सर्वस्य धातारमचिन्त्यरूप-        मादित्यवर्णं तमसः परस्तात् ॥ ८-९ ॥",
     "translation": "",
-    "itrans": "kaviM purANamanushAsitAra-        maNoraNIya.nsamanusmaredyaH . sarvasya dhAtAramachintyarUpa-        mAdityavarNaM tamasaH parastAt .. 8-9 .."
+    "itrans": "kaviM purANamanushAsitAra-        maNoraNIya.nsamanusmaredyaH . sarvasya dhAtAramachintyarUpa-        mAdityavarNaM tamasaH parastAt .. 8-9 ..",
+    "four_pada": true
   },
   {
     "id": "8.10",
@@ -2533,7 +2542,8 @@
     "verse": 10,
     "sanskrit": "प्रयाणकाले मनसाऽचलेन        भक्त्या युक्तो योगबलेन चैव । भ्रुवोर्मध्ये प्राणमावेश्य सम्यक्        स तं परं पुरुषमुपैति दिव्यम् ॥ ८-१० ॥",
     "translation": "",
-    "itrans": "prayANakAle manasA.achalena        bhaktyA yukto yogabalena chaiva . bhruvormadhye prANamAveshya samyak.h        sa taM paraM puruShamupaiti divyam .. 8-10 .."
+    "itrans": "prayANakAle manasA.achalena        bhaktyA yukto yogabalena chaiva . bhruvormadhye prANamAveshya samyak.h        sa taM paraM puruShamupaiti divyam .. 8-10 ..",
+    "four_pada": true
   },
   {
     "id": "8.11",
@@ -2541,7 +2551,8 @@
     "verse": 11,
     "sanskrit": "यदक्षरं वेदविदो वदन्ति        विशन्ति यद्यतयो वीतरागाः । यदिच्छन्तो ब्रह्मचर्यं चरन्ति        तत्ते पदं सङ्ग्रहेण प्रवक्ष्ये ॥ ८-११ ॥",
     "translation": "",
-    "itrans": "yadakSharaM vedavido vadanti        vishanti yadyatayo vItarAgAH . yadichChanto brahmacharya.n charanti        tatte padaM sa~NgraheNa pravakShye .. 8-11 .."
+    "itrans": "yadakSharaM vedavido vadanti        vishanti yadyatayo vItarAgAH . yadichChanto brahmacharya.n charanti        tatte padaM sa~NgraheNa pravakShye .. 8-11 ..",
+    "four_pada": true
   },
   {
     "id": "8.12",
@@ -2677,7 +2688,8 @@
     "verse": 28,
     "sanskrit": "वेदेषु यज्ञेषु तपःसु चैव        दानेषु यत्पुण्यफलं प्रदिष्टम् । अत्येति तत्सर्वमिदं विदित्वा        योगी परं स्थानमुपैति चाद्यम् ॥ ८-२८ ॥",
     "translation": "",
-    "itrans": "vedeShu yaj~neShu tapaHsu chaiva        dAneShu yatpuNyaphalaM pradiShTam . atyeti tatsarvamidaM viditvA        yogI paraM sthAnamupaiti chAdyam .. 8-28 .."
+    "itrans": "vedeShu yaj~neShu tapaHsu chaiva        dAneShu yatpuNyaphalaM pradiShTam . atyeti tatsarvamidaM viditvA        yogI paraM sthAnamupaiti chAdyam .. 8-28 ..",
+    "four_pada": true
   },
   {
     "id": "9.1",
@@ -2837,7 +2849,8 @@
     "verse": 20,
     "sanskrit": "त्रैविद्या मां सोमपाः पूतपापा        यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते । ते पुण्यमासाद्य सुरेन्द्रलोक-        मश्नन्ति दिव्यान्दिवि देवभोगान् ॥ ९-२० ॥",
     "translation": "",
-    "itrans": "traividyA mA.n somapAH pUtapApA        yaj~nairiShTvA svargatiM prArthayante . te puNyamAsAdya surendraloka-        mashnanti divyAndivi devabhogAn .. 9-20 .."
+    "itrans": "traividyA mA.n somapAH pUtapApA        yaj~nairiShTvA svargatiM prArthayante . te puNyamAsAdya surendraloka-        mashnanti divyAndivi devabhogAn .. 9-20 ..",
+    "four_pada": true
   },
   {
     "id": "9.21",
@@ -2845,7 +2858,8 @@
     "verse": 21,
     "sanskrit": "ते तं भुक्त्वा स्वर्गलोकं विशालं        क्षीणे पुण्ये मर्त्यलोकं विशन्ति । एवं त्रयीधर्ममनुप्रपन्ना        गतागतं कामकामा लभन्ते ॥ ९-२१ ॥",
     "translation": "",
-    "itrans": "te taM bhuktvA svargalokaM vishAlaM        kShINe puNye martyalokaM vishanti . evaM trayIdharmamanuprapannA        gatAgataM kAmakAmA labhante .. 9-21 .."
+    "itrans": "te taM bhuktvA svargalokaM vishAlaM        kShINe puNye martyalokaM vishanti . evaM trayIdharmamanuprapannA        gatAgataM kAmakAmA labhante .. 9-21 ..",
+    "four_pada": true
   },
   {
     "id": "9.22",
@@ -3405,7 +3419,8 @@
     "verse": 15,
     "sanskrit": "अर्जुन उवाच । पश्यामि देवांस्तव देव देहे        सर्वांस्तथा भूतविशेषसङ्घान् । ब्रह्माणमीशं कमलासनस्थ-        मृषींश्च सर्वानुरगांश्च दिव्यान् ॥ ११-१५ ॥",
     "translation": "",
-    "itrans": "arjuna uvAcha . pashyAmi devA.nstava deva dehe        sarvA.nstathA bhUtavisheShasa~NghAn . brahmANamIshaM kamalAsanastha-        mR^iShI.nshcha sarvAnuragA.nshcha divyAn .. 11-15 .."
+    "itrans": "arjuna uvAcha . pashyAmi devA.nstava deva dehe        sarvA.nstathA bhUtavisheShasa~NghAn . brahmANamIshaM kamalAsanastha-        mR^iShI.nshcha sarvAnuragA.nshcha divyAn .. 11-15 ..",
+    "four_pada": true
   },
   {
     "id": "11.16",
@@ -3413,7 +3428,8 @@
     "verse": 16,
     "sanskrit": "अनेकबाहूदरवक्त्रनेत्रं        पश्यामि त्वां सर्वतोऽनन्तरूपम् । नान्तं न मध्यं न पुनस्तवादिं        पश्यामि विश्वेश्वर  विश्वरूप ॥ ११-१६ ॥",
     "translation": "",
-    "itrans": "anekabAhUdaravaktranetra.n        pashyAmi tvA.n sarvato.anantarUpam . nAntaM na madhyaM na punastavAdi.n        pashyAmi vishveshvara  vishvarUpa .. 11-16 .."
+    "itrans": "anekabAhUdaravaktranetra.n        pashyAmi tvA.n sarvato.anantarUpam . nAntaM na madhyaM na punastavAdi.n        pashyAmi vishveshvara  vishvarUpa .. 11-16 ..",
+    "four_pada": true
   },
   {
     "id": "11.17",
@@ -3421,7 +3437,8 @@
     "verse": 17,
     "sanskrit": "किरीटिनं गदिनं चक्रिणं च        तेजोराशिं सर्वतो दीप्तिमन्तम् । पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्        दीप्तानलार्कद्युतिमप्रमेयम् ॥ ११-१७ ॥",
     "translation": "",
-    "itrans": "kirITinaM gadina.n chakriNa.n cha        tejorAshi.n sarvato dIptimantam . pashyAmi tvA.n durnirIkShya.n samantAd.h        dIptAnalArkadyutimaprameyam .. 11-17 .."
+    "itrans": "kirITinaM gadina.n chakriNa.n cha        tejorAshi.n sarvato dIptimantam . pashyAmi tvA.n durnirIkShya.n samantAd.h        dIptAnalArkadyutimaprameyam .. 11-17 ..",
+    "four_pada": true
   },
   {
     "id": "11.18",
@@ -3429,7 +3446,8 @@
     "verse": 18,
     "sanskrit": "त्वमक्षरं परमं वेदितव्यं        त्वमस्य विश्वस्य परं निधानम् । त्वमव्ययः शाश्वतधर्मगोप्ता        सनातनस्त्वं पुरुषो मतो मे ॥ ११-१८ ॥",
     "translation": "",
-    "itrans": "tvamakSharaM paramaM veditavya.n        tvamasya vishvasya paraM nidhAnam . tvamavyayaH shAshvatadharmagoptA        sanAtanastvaM puruSho mato me .. 11-18 .."
+    "itrans": "tvamakSharaM paramaM veditavya.n        tvamasya vishvasya paraM nidhAnam . tvamavyayaH shAshvatadharmagoptA        sanAtanastvaM puruSho mato me .. 11-18 ..",
+    "four_pada": true
   },
   {
     "id": "11.19",
@@ -3437,7 +3455,8 @@
     "verse": 19,
     "sanskrit": "अनादिमध्यान्तमनन्तवीर्य-        मनन्तबाहुं शशिसूर्यनेत्रम् । पश्यामि त्वां दीप्तहुताशवक्त्रं        स्वतेजसा विश्वमिदं तपन्तम् ॥ ११-१९ ॥",
     "translation": "",
-    "itrans": "anAdimadhyAntamanantavIrya-        manantabAhu.n shashisUryanetram . pashyAmi tvA.n dIptahutAshavaktra.n        svatejasA vishvamidaM tapantam .. 11-19 .."
+    "itrans": "anAdimadhyAntamanantavIrya-        manantabAhu.n shashisUryanetram . pashyAmi tvA.n dIptahutAshavaktra.n        svatejasA vishvamidaM tapantam .. 11-19 ..",
+    "four_pada": true
   },
   {
     "id": "11.20",
@@ -3445,7 +3464,8 @@
     "verse": 20,
     "sanskrit": "द्यावापृथिव्योरिदमन्तरं हि        व्याप्तं त्वयैकेन दिशश्च सर्वाः । दृष्ट्वाद्भुतं रूपमुग्रं तवेदं        लोकत्रयं प्रव्यथितं महात्मन् ॥ ११-२० ॥",
     "translation": "",
-    "itrans": "dyAvApR^ithivyoridamantara.n hi        vyApta.n tvayaikena dishashcha sarvAH . dR^iShTvAd.hbhutaM rUpamugra.n tavedaM        lokatrayaM pravyathitaM mahAtman .. 11-20 .."
+    "itrans": "dyAvApR^ithivyoridamantara.n hi        vyApta.n tvayaikena dishashcha sarvAH . dR^iShTvAd.hbhutaM rUpamugra.n tavedaM        lokatrayaM pravyathitaM mahAtman .. 11-20 ..",
+    "four_pada": true
   },
   {
     "id": "11.21",
@@ -3453,7 +3473,8 @@
     "verse": 21,
     "sanskrit": "अमी हि त्वां सुरसङ्घा विशन्ति        केचिद्भीताः प्राञ्जलयो गृणन्ति । स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः        स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ॥ ११-२१ ॥",
     "translation": "",
-    "itrans": "amI hi tvA.n surasa~NghA vishanti        kechidbhItAH prA~njalayo gR^iNanti . svastItyuktvA maharShisiddhasa~NghAH        stuvanti tvA.n stutibhiH puShkalAbhiH .. 11-21 .."
+    "itrans": "amI hi tvA.n surasa~NghA vishanti        kechidbhItAH prA~njalayo gR^iNanti . svastItyuktvA maharShisiddhasa~NghAH        stuvanti tvA.n stutibhiH puShkalAbhiH .. 11-21 ..",
+    "four_pada": true
   },
   {
     "id": "11.22",
@@ -3461,7 +3482,8 @@
     "verse": 22,
     "sanskrit": "रुद्रादित्या वसवो ये च साध्या        विश्वेऽश्विनौ मरुतश्चोष्मपाश्च । गन्धर्वयक्षासुरसिद्धसङ्घा        वीक्षन्ते त्वां विस्मिताश्चैव सर्वे ॥ ११-२२ ॥",
     "translation": "",
-    "itrans": "rudrAdityA vasavo ye cha sAdhyA        vishve.ashvinau marutashchoShmapAshcha . gandharvayakShAsurasiddhasa~NghA        vIkShante tvA.n vismitAshchaiva sarve .. 11-22 .."
+    "itrans": "rudrAdityA vasavo ye cha sAdhyA        vishve.ashvinau marutashchoShmapAshcha . gandharvayakShAsurasiddhasa~NghA        vIkShante tvA.n vismitAshchaiva sarve .. 11-22 ..",
+    "four_pada": true
   },
   {
     "id": "11.23",
@@ -3469,7 +3491,8 @@
     "verse": 23,
     "sanskrit": "रूपं महत्ते बहुवक्त्रनेत्रं        महाबाहो बहुबाहूरुपादम् । बहूदरं बहुदंष्ट्राकरालं        दृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ॥ ११-२३ ॥",
     "translation": "",
-    "itrans": "rUpaM mahatte bahuvaktranetra.n        mahAbAho bahubAhUrupAdam . bahUdaraM bahuda.nShTrAkarAlaM        dR^iShTvA lokAH pravyathitAstathAham .. 11-23 .."
+    "itrans": "rUpaM mahatte bahuvaktranetra.n        mahAbAho bahubAhUrupAdam . bahUdaraM bahuda.nShTrAkarAlaM        dR^iShTvA lokAH pravyathitAstathAham .. 11-23 ..",
+    "four_pada": true
   },
   {
     "id": "11.24",
@@ -3477,7 +3500,8 @@
     "verse": 24,
     "sanskrit": "नभःस्पृशं दीप्तमनेकवर्णं        व्यात्ताननं दीप्तविशालनेत्रम् । दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा        धृतिं न विन्दामि शमं च विष्णो ॥ ११-२४ ॥",
     "translation": "",
-    "itrans": "nabhaHspR^ishaM dIptamanekavarNa.n        vyAttAnanaM dIptavishAlanetram . dR^iShTvA hi tvAM pravyathitAntarAtmA        dhR^iti.n na vindAmi shama.n cha viShNo .. 11-24 .."
+    "itrans": "nabhaHspR^ishaM dIptamanekavarNa.n        vyAttAnanaM dIptavishAlanetram . dR^iShTvA hi tvAM pravyathitAntarAtmA        dhR^iti.n na vindAmi shama.n cha viShNo .. 11-24 ..",
+    "four_pada": true
   },
   {
     "id": "11.25",
@@ -3485,7 +3509,8 @@
     "verse": 25,
     "sanskrit": "दंष्ट्राकरालानि च ते मुखानि        दृष्ट्वैव कालानलसन्निभानि । दिशो न जाने न लभे च शर्म        प्रसीद देवेश जगन्निवास ॥ ११-२५ ॥",
     "translation": "",
-    "itrans": "da.nShTrAkarAlAni cha te mukhAni        dR^iShTvaiva kAlAnalasannibhAni . disho na jAne na labhe cha sharma        prasIda devesha jagannivAsa .. 11-25 .."
+    "itrans": "da.nShTrAkarAlAni cha te mukhAni        dR^iShTvaiva kAlAnalasannibhAni . disho na jAne na labhe cha sharma        prasIda devesha jagannivAsa .. 11-25 ..",
+    "four_pada": true
   },
   {
     "id": "11.26",
@@ -3493,7 +3518,8 @@
     "verse": 26,
     "sanskrit": "अमी च त्वां धृतराष्ट्रस्य पुत्राः        सर्वे सहैवावनिपालसङ्घैः । भीष्मो द्रोणः सूतपुत्रस्तथासौ        सहास्मदीयैरपि योधमुख्यैः ॥ ११-२६ ॥",
     "translation": "",
-    "itrans": "amI cha tvA.n dhR^itarAShTrasya putrAH        sarve sahaivAvanipAlasa~NghaiH . bhIShmo droNaH sUtaputrastathAsau        sahAsmadIyairapi yodhamukhyaiH .. 11-26 .."
+    "itrans": "amI cha tvA.n dhR^itarAShTrasya putrAH        sarve sahaivAvanipAlasa~NghaiH . bhIShmo droNaH sUtaputrastathAsau        sahAsmadIyairapi yodhamukhyaiH .. 11-26 ..",
+    "four_pada": true
   },
   {
     "id": "11.27",
@@ -3501,7 +3527,8 @@
     "verse": 27,
     "sanskrit": "वक्त्राणि ते त्वरमाणा विशन्ति        दंष्ट्राकरालानि भयानकानि । केचिद्विलग्ना दशनान्तरेषु        सन्दृश्यन्ते चूर्णितैरुत्तमाङ्गैः ॥ ११-२७ ॥",
     "translation": "",
-    "itrans": "vaktrANi te tvaramANA vishanti        da.nShTrAkarAlAni bhayAnakAni . kechidvilagnA dashanAntareShu        sandR^ishyante chUrNitairuttamA~NgaiH .. 11-27 .."
+    "itrans": "vaktrANi te tvaramANA vishanti        da.nShTrAkarAlAni bhayAnakAni . kechidvilagnA dashanAntareShu        sandR^ishyante chUrNitairuttamA~NgaiH .. 11-27 ..",
+    "four_pada": true
   },
   {
     "id": "11.28",
@@ -3509,7 +3536,8 @@
     "verse": 28,
     "sanskrit": "यथा नदीनां बहवोऽम्बुवेगाः        समुद्रमेवाभिमुखा द्रवन्ति । तथा तवामी नरलोकवीरा        विशन्ति वक्त्राण्यभिविज्वलन्ति ॥ ११-२८ ॥",
     "translation": "",
-    "itrans": "yathA nadInAM bahavo.ambuvegAH        samudramevAbhimukhA dravanti . tathA tavAmI naralokavIrA        vishanti vaktrANyabhivijvalanti .. 11-28 .."
+    "itrans": "yathA nadInAM bahavo.ambuvegAH        samudramevAbhimukhA dravanti . tathA tavAmI naralokavIrA        vishanti vaktrANyabhivijvalanti .. 11-28 ..",
+    "four_pada": true
   },
   {
     "id": "11.29",
@@ -3517,7 +3545,8 @@
     "verse": 29,
     "sanskrit": "यथा प्रदीप्तं ज्वलनं पतङ्गा        विशन्ति नाशाय समृद्धवेगाः । तथैव नाशाय विशन्ति लोकास्-        तवापि वक्त्राणि समृद्धवेगाः ॥ ११-२९ ॥",
     "translation": "",
-    "itrans": "yathA pradIpta.n jvalanaM pata~NgA        vishanti nAshAya samR^iddhavegAH . tathaiva nAshAya vishanti lokAs-        tavApi vaktrANi samR^iddhavegAH .. 11-29 .."
+    "itrans": "yathA pradIpta.n jvalanaM pata~NgA        vishanti nAshAya samR^iddhavegAH . tathaiva nAshAya vishanti lokAs-        tavApi vaktrANi samR^iddhavegAH .. 11-29 ..",
+    "four_pada": true
   },
   {
     "id": "11.30",
@@ -3525,7 +3554,8 @@
     "verse": 30,
     "sanskrit": "लेलिह्यसे ग्रसमानः समन्ताल्-        लोकान्समग्रान्वदनैर्ज्वलद्भिः । तेजोभिरापूर्य जगत्समग्रं        भासस्तवोग्राः प्रतपन्ति विष्णो ॥ ११-३० ॥",
     "translation": "",
-    "itrans": "lelihyase grasamAnaH samantAl.h-        lokAnsamagrAnvadanairjvaladbhiH . tejobhirApUrya jagatsamagra.n        bhAsastavogrAH pratapanti viShNo .. 11-30 .."
+    "itrans": "lelihyase grasamAnaH samantAl.h-        lokAnsamagrAnvadanairjvaladbhiH . tejobhirApUrya jagatsamagra.n        bhAsastavogrAH pratapanti viShNo .. 11-30 ..",
+    "four_pada": true
   },
   {
     "id": "11.31",
@@ -3533,7 +3563,8 @@
     "verse": 31,
     "sanskrit": "आख्याहि मे को भवानुग्ररूपो        नमोऽस्तु ते देववर प्रसीद । विज्ञातुमिच्छामि भवन्तमाद्यं        न हि प्रजानामि तव प्रवृत्तिम् ॥ ११-३१ ॥",
     "translation": "",
-    "itrans": "AkhyAhi me ko bhavAnugrarUpo        namo.astu te devavara prasIda . vij~nAtumichChAmi bhavantamAdya.n        na hi prajAnAmi tava pravR^ittim .. 11-31 .."
+    "itrans": "AkhyAhi me ko bhavAnugrarUpo        namo.astu te devavara prasIda . vij~nAtumichChAmi bhavantamAdya.n        na hi prajAnAmi tava pravR^ittim .. 11-31 ..",
+    "four_pada": true
   },
   {
     "id": "11.32",
@@ -3541,7 +3572,8 @@
     "verse": 32,
     "sanskrit": "श्रीभगवानुवाच । कालोऽस्मि लोकक्षयकृत्प्रवृद्धो        लोकान्समाहर्तुमिह प्रवृत्तः । ऋतेऽपि त्वां न भविष्यन्ति सर्वे        येऽवस्थिताः प्रत्यनीकेषु योधाः ॥ ११-३२ ॥",
     "translation": "",
-    "itrans": "shrIbhagavAnuvAcha . kAlo.asmi lokakShayakR^itpravR^iddho        lokAnsamAhartumiha pravR^ittaH . R^ite.api tvA.n na bhaviShyanti sarve        ye.avasthitAH pratyanIkeShu yodhAH .. 11-32 .."
+    "itrans": "shrIbhagavAnuvAcha . kAlo.asmi lokakShayakR^itpravR^iddho        lokAnsamAhartumiha pravR^ittaH . R^ite.api tvA.n na bhaviShyanti sarve        ye.avasthitAH pratyanIkeShu yodhAH .. 11-32 ..",
+    "four_pada": true
   },
   {
     "id": "11.33",
@@ -3549,7 +3581,8 @@
     "verse": 33,
     "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व        जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् । मयैवैते निहताः पूर्वमेव        निमित्तमात्रं भव सव्यसाचिन् ॥ ११-३३ ॥",
     "translation": "",
-    "itrans": "tasmAttvamuttiShTha yasho labhasva        jitvA shatrUn bhu~N.hkShva rAjya.n samR^iddham . mayaivaite nihatAH pUrvameva        nimittamAtraM bhava savyasAchin .. 11-33 .."
+    "itrans": "tasmAttvamuttiShTha yasho labhasva        jitvA shatrUn bhu~N.hkShva rAjya.n samR^iddham . mayaivaite nihatAH pUrvameva        nimittamAtraM bhava savyasAchin .. 11-33 ..",
+    "four_pada": true
   },
   {
     "id": "11.34",
@@ -3557,7 +3590,8 @@
     "verse": 34,
     "sanskrit": "द्रोणं च भीष्मं च जयद्रथं च        कर्णं तथान्यानपि योधवीरान् । मया हतांस्त्वं जहि मा व्यथिष्ठा        युध्यस्व जेतासि रणे सपत्नान् ॥ ११-३४ ॥",
     "translation": "",
-    "itrans": "droNa.n cha bhIShma.n cha jayadratha.n cha        karNa.n tathAnyAnapi yodhavIrAn . mayA hatA.nstva.n jahi mA vyathiShThA        yudhyasva jetAsi raNe sapatnAn .. 11-34 .."
+    "itrans": "droNa.n cha bhIShma.n cha jayadratha.n cha        karNa.n tathAnyAnapi yodhavIrAn . mayA hatA.nstva.n jahi mA vyathiShThA        yudhyasva jetAsi raNe sapatnAn .. 11-34 ..",
+    "four_pada": true
   },
   {
     "id": "11.35",
@@ -3565,7 +3599,8 @@
     "verse": 35,
     "sanskrit": "सञ्जय उवाच । एतच्छ्रुत्वा वचनं केशवस्य        कृताञ्जलिर्वेपमानः किरीटी । नमस्कृत्वा भूय एवाह कृष्णं        सगद्गदं भीतभीतः प्रणम्य ॥ ११-३५ ॥",
     "translation": "",
-    "itrans": "sa~njaya uvAcha . etachChrutvA vachanaM keshavasya        kR^itA~njalirvepamAnaH kirITI . namaskR^itvA bhUya evAha kR^iShNaM        sagadgadaM bhItabhItaH praNamya .. 11-35 .."
+    "itrans": "sa~njaya uvAcha . etachChrutvA vachanaM keshavasya        kR^itA~njalirvepamAnaH kirITI . namaskR^itvA bhUya evAha kR^iShNaM        sagadgadaM bhItabhItaH praNamya .. 11-35 ..",
+    "four_pada": true
   },
   {
     "id": "11.36",
@@ -3573,7 +3608,8 @@
     "verse": 36,
     "sanskrit": "अर्जुन उवाच । स्थाने हृषीकेश तव प्रकीर्त्या        जगत्प्रहृष्यत्यनुरज्यते च । रक्षांसि भीतानि दिशो द्रवन्ति        सर्वे नमस्यन्ति च सिद्धसङ्घाः ॥ ११-३६ ॥",
     "translation": "",
-    "itrans": "arjuna uvAcha . sthAne hR^iShIkesha tava prakIrtyA        jagatprahR^iShyatyanurajyate cha . rakShA.nsi bhItAni disho dravanti        sarve namasyanti cha siddhasa~NghAH .. 11-36 .."
+    "itrans": "arjuna uvAcha . sthAne hR^iShIkesha tava prakIrtyA        jagatprahR^iShyatyanurajyate cha . rakShA.nsi bhItAni disho dravanti        sarve namasyanti cha siddhasa~NghAH .. 11-36 ..",
+    "four_pada": true
   },
   {
     "id": "11.37",
@@ -3581,7 +3617,8 @@
     "verse": 37,
     "sanskrit": "कस्माच्च ते न नमेरन्महात्मन्        गरीयसे ब्रह्मणोऽप्यादिकर्त्रे । अनन्त देवेश जगन्निवास        त्वमक्षरं सदसत्तत्परं यत् ॥ ११-३७ ॥",
     "translation": "",
-    "itrans": "kasmAchcha te na nameranmahAtman.h        garIyase brahmaNo.apyAdikartre . ananta devesha jagannivAsa        tvamakSharaM sadasattatparaM yat .. 11-37 .."
+    "itrans": "kasmAchcha te na nameranmahAtman.h        garIyase brahmaNo.apyAdikartre . ananta devesha jagannivAsa        tvamakSharaM sadasattatparaM yat .. 11-37 ..",
+    "four_pada": true
   },
   {
     "id": "11.38",
@@ -3589,7 +3626,8 @@
     "verse": 38,
     "sanskrit": "त्वमादिदेवः पुरुषः पुराणस्-        त्वमस्य विश्वस्य परं निधानम् । वेत्तासि वेद्यं च परं च धाम        त्वया ततं विश्वमनन्तरूप ॥ ११-३८ ॥",
     "translation": "",
-    "itrans": "tvamAdidevaH puruShaH purANas-        tvamasya vishvasya paraM nidhAnam . vettAsi vedya.n cha para.n cha dhAma        tvayA tataM vishvamanantarUpa .. 11-38 .."
+    "itrans": "tvamAdidevaH puruShaH purANas-        tvamasya vishvasya paraM nidhAnam . vettAsi vedya.n cha para.n cha dhAma        tvayA tataM vishvamanantarUpa .. 11-38 ..",
+    "four_pada": true
   },
   {
     "id": "11.39",
@@ -3597,7 +3635,8 @@
     "verse": 39,
     "sanskrit": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः        प्रजापतिस्त्वं प्रपितामहश्च । नमो नमस्तेऽस्तु सहस्रकृत्वः        पुनश्च भूयोऽपि नमो नमस्ते ॥ ११-३९ ॥",
     "translation": "",
-    "itrans": "vAyuryamo.agnirvaruNaH shashA~NkaH        prajApatistvaM prapitAmahashcha . namo namaste.astu sahasrakR^itvaH        punashcha bhUyo.api namo namaste .. 11-39 .."
+    "itrans": "vAyuryamo.agnirvaruNaH shashA~NkaH        prajApatistvaM prapitAmahashcha . namo namaste.astu sahasrakR^itvaH        punashcha bhUyo.api namo namaste .. 11-39 ..",
+    "four_pada": true
   },
   {
     "id": "11.40",
@@ -3605,7 +3644,8 @@
     "verse": 40,
     "sanskrit": "नमः पुरस्तादथ पृष्ठतस्ते        नमोऽस्तु ते सर्वत एव सर्व । अनन्तवीर्यामितविक्रमस्त्वं        सर्वं समाप्नोषि ततोऽसि सर्वः ॥ ११-४० ॥",
     "translation": "",
-    "itrans": "namaH purastAdatha pR^iShThataste        namo.astu te sarvata eva sarva . anantavIryAmitavikramastva.n        sarva.n samApnoShi tato.asi sarvaH .. 11-40 .."
+    "itrans": "namaH purastAdatha pR^iShThataste        namo.astu te sarvata eva sarva . anantavIryAmitavikramastva.n        sarva.n samApnoShi tato.asi sarvaH .. 11-40 ..",
+    "four_pada": true
   },
   {
     "id": "11.41",
@@ -3613,7 +3653,8 @@
     "verse": 41,
     "sanskrit": "सखेति मत्वा प्रसभं यदुक्तं        हे कृष्ण हे यादव हे सखेति । अजानता महिमानं तवेदं        मया प्रमादात्प्रणयेन वापि ॥ ११-४१ ॥",
     "translation": "",
-    "itrans": "sakheti matvA prasabhaM yaduktaM        he kR^iShNa he yAdava he sakheti . ajAnatA mahimAnaM tavedaM        mayA pramAdAtpraNayena vApi .. 11-41 .."
+    "itrans": "sakheti matvA prasabhaM yaduktaM        he kR^iShNa he yAdava he sakheti . ajAnatA mahimAnaM tavedaM        mayA pramAdAtpraNayena vApi .. 11-41 ..",
+    "four_pada": true
   },
   {
     "id": "11.42",
@@ -3621,7 +3662,8 @@
     "verse": 42,
     "sanskrit": "यच्चावहासार्थमसत्कृतोऽसि        विहारशय्यासनभोजनेषु । एकोऽथवाप्यच्युत तत्समक्षं        तत्क्षामये त्वामहमप्रमेयम् ॥ ११-४२ ॥",
     "translation": "",
-    "itrans": "yachchAvahAsArthamasatkR^ito.asi        vihArashayyAsanabhojaneShu . eko.athavApyachyuta tatsamakSha.n        tatkShAmaye tvAmahamaprameyam .. 11-42 .."
+    "itrans": "yachchAvahAsArthamasatkR^ito.asi        vihArashayyAsanabhojaneShu . eko.athavApyachyuta tatsamakSha.n        tatkShAmaye tvAmahamaprameyam .. 11-42 ..",
+    "four_pada": true
   },
   {
     "id": "11.43",
@@ -3629,7 +3671,8 @@
     "verse": 43,
     "sanskrit": "पितासि लोकस्य चराचरस्य        त्वमस्य पूज्यश्च गुरुर्गरीयान् । न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो        लोकत्रयेऽप्यप्रतिमप्रभाव ॥ ११-४३ ॥",
     "translation": "",
-    "itrans": "pitAsi lokasya charAcharasya        tvamasya pUjyashcha gururgarIyAn . na tvatsamo.astyabhyadhikaH kuto.anyo        lokatraye.apyapratimaprabhAva .. 11-43 .."
+    "itrans": "pitAsi lokasya charAcharasya        tvamasya pUjyashcha gururgarIyAn . na tvatsamo.astyabhyadhikaH kuto.anyo        lokatraye.apyapratimaprabhAva .. 11-43 ..",
+    "four_pada": true
   },
   {
     "id": "11.44",
@@ -3637,7 +3680,8 @@
     "verse": 44,
     "sanskrit": "तस्मात्प्रणम्य प्रणिधाय कायं        प्रसादये त्वामहमीशमीड्यम् । पितेव पुत्रस्य सखेव सख्युः        प्रियः प्रियायार्हसि देव सोढुम् ॥ ११-४४ ॥",
     "translation": "",
-    "itrans": "tasmAtpraNamya praNidhAya kAyaM        prasAdaye tvAmahamIshamIDyam . piteva putrasya sakheva sakhyuH        priyaH priyAyArhasi deva soDhum .. 11-44 .."
+    "itrans": "tasmAtpraNamya praNidhAya kAyaM        prasAdaye tvAmahamIshamIDyam . piteva putrasya sakheva sakhyuH        priyaH priyAyArhasi deva soDhum .. 11-44 ..",
+    "four_pada": true
   },
   {
     "id": "11.45",
@@ -3645,7 +3689,8 @@
     "verse": 45,
     "sanskrit": "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा        भयेन च प्रव्यथितं मनो मे । तदेव मे दर्शय देव रूपं        प्रसीद देवेश जगन्निवास ॥ ११-४५ ॥",
     "translation": "",
-    "itrans": "adR^iShTapUrva.n hR^iShito.asmi dR^iShTvA        bhayena cha pravyathitaM mano me . tadeva me darshaya deva rUpaM        prasIda devesha jagannivAsa .. 11-45 .."
+    "itrans": "adR^iShTapUrva.n hR^iShito.asmi dR^iShTvA        bhayena cha pravyathitaM mano me . tadeva me darshaya deva rUpaM        prasIda devesha jagannivAsa .. 11-45 ..",
+    "four_pada": true
   },
   {
     "id": "11.46",
@@ -3653,7 +3698,8 @@
     "verse": 46,
     "sanskrit": "किरीटिनं गदिनं चक्रहस्तं        इच्छामि त्वां द्रष्टुमहं तथैव । तेनैव रूपेण चतुर्भुजेन        सहस्रबाहो भव विश्वमूर्ते ॥ ११-४६ ॥",
     "translation": "",
-    "itrans": "kirITinaM gadina.n chakrahastaM        ichChAmi tvA.n draShTumahaM tathaiva . tenaiva rUpeNa chaturbhujena        sahasrabAho bhava vishvamUrte .. 11-46 .."
+    "itrans": "kirITinaM gadina.n chakrahastaM        ichChAmi tvA.n draShTumahaM tathaiva . tenaiva rUpeNa chaturbhujena        sahasrabAho bhava vishvamUrte .. 11-46 ..",
+    "four_pada": true
   },
   {
     "id": "11.47",
@@ -3661,7 +3707,8 @@
     "verse": 47,
     "sanskrit": "श्रीभगवानुवाच । मया प्रसन्नेन तवार्जुनेदं        रूपं परं दर्शितमात्मयोगात् । तेजोमयं विश्वमनन्तमाद्यं        यन्मे त्वदन्येन न दृष्टपूर्वम् ॥ ११-४७ ॥",
     "translation": "",
-    "itrans": "shrIbhagavAnuvAcha . mayA prasannena tavArjunedaM        rUpaM paraM darshitamAtmayogAt . tejomayaM vishvamanantamAdya.n        yanme tvadanyena na dR^iShTapUrvam .. 11-47 .."
+    "itrans": "shrIbhagavAnuvAcha . mayA prasannena tavArjunedaM        rUpaM paraM darshitamAtmayogAt . tejomayaM vishvamanantamAdya.n        yanme tvadanyena na dR^iShTapUrvam .. 11-47 ..",
+    "four_pada": true
   },
   {
     "id": "11.48",
@@ -3669,7 +3716,8 @@
     "verse": 48,
     "sanskrit": "न वेदयज्ञाध्ययनैर्न दानैर्-        न च क्रियाभिर्न तपोभिरुग्रैः । एवंरूपः शक्य अहं नृलोके        द्रष्टुं त्वदन्येन कुरुप्रवीर ॥ ११-४८ ॥",
     "translation": "",
-    "itrans": "na vedayaj~nAdhyayanairna dAnair-        na cha kriyAbhirna tapobhirugraiH . eva.nrUpaH shakya ahaM nR^iloke        draShTuM tvadanyena kurupravIra .. 11-48 .."
+    "itrans": "na vedayaj~nAdhyayanairna dAnair-        na cha kriyAbhirna tapobhirugraiH . eva.nrUpaH shakya ahaM nR^iloke        draShTuM tvadanyena kurupravIra .. 11-48 ..",
+    "four_pada": true
   },
   {
     "id": "11.49",
@@ -3677,7 +3725,8 @@
     "verse": 49,
     "sanskrit": "मा ते व्यथा मा च विमूढभावो        दृष्ट्वा रूपं घोरमीदृङ्ममेदम् । व्यपेतभीः प्रीतमनाः पुनस्त्वं        तदेव मे रूपमिदं प्रपश्य ॥ ११-४९ ॥",
     "translation": "",
-    "itrans": "mA te vyathA mA cha vimUDhabhAvo        dR^iShTvA rUpaM ghoramIdR^i~N.hmamedam . vyapetabhIH prItamanAH punastva.n        tadeva me rUpamidaM prapashya .. 11-49 .."
+    "itrans": "mA te vyathA mA cha vimUDhabhAvo        dR^iShTvA rUpaM ghoramIdR^i~N.hmamedam . vyapetabhIH prItamanAH punastva.n        tadeva me rUpamidaM prapashya .. 11-49 ..",
+    "four_pada": true
   },
   {
     "id": "11.50",
@@ -3685,7 +3734,8 @@
     "verse": 50,
     "sanskrit": "सञ्जय उवाच । इत्यर्जुनं वासुदेवस्तथोक्त्वा        स्वकं रूपं दर्शयामास भूयः । आश्वासयामास च भीतमेनं        भूत्वा पुनः सौम्यवपुर्महात्मा ॥ ११-५० ॥",
     "translation": "",
-    "itrans": "sa~njaya uvAcha . ityarjunaM vAsudevastathoktvA        svakaM rUpaM darshayAmAsa bhUyaH . AshvAsayAmAsa cha bhItamenaM        bhUtvA punaH saumyavapurmahAtmA .. 11-50 .."
+    "itrans": "sa~njaya uvAcha . ityarjunaM vAsudevastathoktvA        svakaM rUpaM darshayAmAsa bhUyaH . AshvAsayAmAsa cha bhItamenaM        bhUtvA punaH saumyavapurmahAtmA .. 11-50 ..",
+    "four_pada": true
   },
   {
     "id": "11.51",
@@ -4397,7 +4447,8 @@
     "verse": 2,
     "sanskrit": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा        गुणप्रवृद्धा विषयप्रवालाः । अधश्च मूलान्यनुसन्ततानि        कर्मानुबन्धीनि मनुष्यलोके ॥ १५-२ ॥",
     "translation": "",
-    "itrans": "adhashchordhvaM prasR^itAstasya shAkhA        guNapravR^iddhA viShayapravAlAH . adhashcha mUlAnyanusantatAni        karmAnubandhIni manuShyaloke .. 15-2 .."
+    "itrans": "adhashchordhvaM prasR^itAstasya shAkhA        guNapravR^iddhA viShayapravAlAH . adhashcha mUlAnyanusantatAni        karmAnubandhIni manuShyaloke .. 15-2 ..",
+    "four_pada": true
   },
   {
     "id": "15.3",
@@ -4405,7 +4456,8 @@
     "verse": 3,
     "sanskrit": "न रूपमस्येह तथोपलभ्यते        नान्तो न चादिर्न च सम्प्रतिष्ठा । अश्वत्थमेनं सुविरूढमूलं        असङ्गशस्त्रेण दृढेन छित्त्वा ॥ १५-३ ॥",
     "translation": "",
-    "itrans": "na rUpamasyeha tathopalabhyate        nAnto na chAdirna cha sampratiShThA . ashvatthamenaM suvirUDhamUlaM        asa~NgashastreNa dR^iDhena ChittvA .. 15-3 .."
+    "itrans": "na rUpamasyeha tathopalabhyate        nAnto na chAdirna cha sampratiShThA . ashvatthamenaM suvirUDhamUlaM        asa~NgashastreNa dR^iDhena ChittvA .. 15-3 ..",
+    "four_pada": true
   },
   {
     "id": "15.4",
@@ -4413,7 +4465,8 @@
     "verse": 4,
     "sanskrit": "ततः पदं तत्परिमार्गितव्यं        यस्मिन्गता न निवर्तन्ति भूयः । तमेव चाद्यं पुरुषं प्रपद्ये ।        यतः प्रवृत्तिः प्रसृता पुराणी ॥ १५-४ ॥",
     "translation": "",
-    "itrans": "tataH padaM tatparimArgitavyaM        yasmingatA na nivartanti bhUyaH . tameva chAdyaM puruShaM prapadye .        yataH pravR^ittiH prasR^itA purANI .. 15-4 .."
+    "itrans": "tataH padaM tatparimArgitavyaM        yasmingatA na nivartanti bhUyaH . tameva chAdyaM puruShaM prapadye .        yataH pravR^ittiH prasR^itA purANI .. 15-4 ..",
+    "four_pada": true
   },
   {
     "id": "15.5",
@@ -4421,7 +4474,8 @@
     "verse": 5,
     "sanskrit": "निर्मानमोहा जितसङ्गदोषा        अध्यात्मनित्या विनिवृत्तकामाः । द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-        गच्छन्त्यमूढाः पदमव्ययं तत् ॥ १५-५ ॥",
     "translation": "",
-    "itrans": "nirmAnamohA jitasa~NgadoShA        adhyAtmanityA vinivR^ittakAmAH . dvandvairvimuktAH sukhaduHkhasa.nj~nair-        gachChantyamUDhAH padamavyayaM tat .. 15-5 .."
+    "itrans": "nirmAnamohA jitasa~NgadoShA        adhyAtmanityA vinivR^ittakAmAH . dvandvairvimuktAH sukhaduHkhasa.nj~nair-        gachChantyamUDhAH padamavyayaM tat .. 15-5 ..",
+    "four_pada": true
   },
   {
     "id": "15.6",
@@ -4501,7 +4555,8 @@
     "verse": 15,
     "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो        मत्तः स्मृतिर्ज्ञानमपोहनञ्च । वेदैश्च सर्वैरहमेव वेद्यो        वेदान्तकृद्वेदविदेव चाहम् ॥ १५-१५ ॥",
     "translation": "",
-    "itrans": "sarvasya chAhaM hR^idi sanniviShTo        mattaH smR^itirj~nAnamapohana~ncha . vedaishcha sarvairahameva vedyo        vedAntakR^idvedavideva chAham .. 15-15 .."
+    "itrans": "sarvasya chAhaM hR^idi sanniviShTo        mattaH smR^itirj~nAnamapohana~ncha . vedaishcha sarvairahameva vedyo        vedAntakR^idvedavideva chAham .. 15-15 ..",
+    "four_pada": true
   },
   {
     "id": "15.16",
