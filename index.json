@@ -347,9 +347,17 @@
     "id": "1.44",
     "chapter": 1,
     "verse": 44,
-    "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन । नरके नियतं वासो भवतीत्यनुशुश्रुम ॥ १-४४॥orनरकेऽनियतंअहो बत महत्पापं कर्तुं व्यवसिता वयम् । यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥ १-४५ ॥",
+    "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन । नरके नियतं वासो भवतीत्यनुशुश्रुम ॥ १-४४॥",
     "translation": "",
-    "itrans": "utsannakuladharmANAM manuShyANA.n janArdana . narake niyata.n vAso bhavatItyanushushruma .. 1-44..##or##narake.aniyataMaho bata mahatpApa.n kartuM vyavasitA vayam . yadrAjyasukhalobhena hantuM svajanamudyatAH .. 1-45 .."
+    "itrans": "utsannakuladharmANAM manuShyANA.n janArdana . narake niyata.n vAso bhavatItyanushushruma .. 1-44.."
+  },
+  {
+    "id": "1.45",
+    "chapter": 1,
+    "verse": 45,
+    "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् । यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥ १-४५ ॥",
+    "translation": "",
+    "itrans": "aho bata mahatpApa.n kartuM vyavasitA vayam . yadrAjyasukhalobhena hantuM svajanamudyatAH .. 1-45 .."
   },
   {
     "id": "1.46",
@@ -1576,6 +1584,14 @@
     "itrans": "yajj~nAtvA na punarmohamevaM yAsyasi pANDava . yena bhUtAnyasheSheNa drakShyasyAtmanyatho mayi .. 4-35.. ## var ## asheShANiapi chedasi pApebhyaH sarvebhyaH pApakR^ittamaH . sarva.n j~nAnaplavenaiva vR^ijinaM santariShyasi .. 4-36 .."
   },
   {
+    "id": "4.36",
+    "chapter": 4,
+    "verse": 36,
+    "sanskrit": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः । सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥ ४-३६ ॥",
+    "translation": "",
+    "itrans": "api chedasi pApebhyaH sarvebhyaH pApakR^ittamaH . sarva.n j~nAnaplavenaiva vR^ijinaM santariShyasi .. 4-36 .."
+  },
+  {
     "id": "4.37",
     "chapter": 4,
     "verse": 37,
@@ -2523,9 +2539,17 @@
     "id": "8.7",
     "chapter": 8,
     "verse": 7,
-    "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च । मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥ ८-७॥ orसंशयमभ्यासयोगयुक्तेन चेतसा नान्यगामिना । परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥ ८-८ ॥",
+    "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च । मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥ ८-७ ॥",
     "translation": "",
-    "itrans": "tasmAtsarveShu kAleShu mAmanusmara yudhya cha . mayyarpitamanobuddhirmAmevaiShyasyasa.nshayaH .. 8-7.. ##or##sa.nshayamabhyAsayogayuktena chetasA nAnyagAminA . paramaM puruShaM divya.n yAti pArthAnuchintayan .. 8-8 .."
+    "itrans": "tasmAtsarveShu kAleShu mAmanusmara yudhya cha . mayyarpitamanobuddhirmAmevaiShyasyasa.nshayaH .. 8-7 .."
+  },
+  {
+    "id": "8.8",
+    "chapter": 8,
+    "verse": 8,
+    "sanskrit": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना । परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥ ८-८ ॥",
+    "translation": "",
+    "itrans": "abhyAsayogayuktena chetasA nAnyagAminA . paramaM puruShaM divya.n yAti pArthAnuchintayan .. 8-8 .."
   },
   {
     "id": "8.9",
