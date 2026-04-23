@@ -5,5 +5,198 @@
   "text_sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् । कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥ १-३९ ॥",
   "itrans": "katha.n na j~neyamasmAbhiH pApAdasmAnnivartitum . kulakShayakR^ita.n doShaM prapashyadbhirjanArdana .. 1-39 ..",
   "translation": "Only sin will take hold of us in slaying these, for though they are ruffians, we kill our own kinsmen. So, it is not fit that we kill the sons of Dhritarashtra, our kinsmen. Indeed, how can we be happy, O Madhava, having killed our kith and kin? However, those infatuated with greed do not see the guilt) in the destruction of the race and do not see the sin in being treacherous (to the lives of) friends. Why should not we also) see that it is wise) to turn away from such a sin, O Janardana, we who clearly perceive the evils in the destruction of races?",
-  "commentary": {}
+  "commentary": {},
+  "analysis": {
+    "source": "https://sanskrit.uohyd.ac.in/scl/e-readers/sbg/1/1.html",
+    "provider": "University of Hyderabad Sanskrit e-reader",
+    "schema": "token rows A-M as displayed in source tables",
+    "tokens": [
+      {
+        "pada": "जनार्दन",
+        "rows": {
+          "A": "जनार्दन",
+          "B": "-",
+          "C": "जनार्दन{पुं}{8;एक}",
+          "D": "जनार्दन{पुं}{8;एक}",
+          "E": "-",
+          "F": "-",
+          "G": "सम्बोध्यः 21",
+          "H": "-",
+          "I": "हे_जनार्दन",
+          "J": "O_Krsna"
+        }
+      },
+      {
+        "pada": "कुल-क्षय-कृतम्",
+        "rows": {
+          "A": "कुल-क्षय-कृतम्",
+          "B": "कुलक्षयकृतं",
+          "C": "कुल-क्षय-कृत्{पुं}{2;एक}/कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}",
+          "D": "कुल-क्षय-कृत्{पुं}{2;एक}",
+          "E": "T3",
+          "F": "कुलस्य क्षयः = कुलक्षयः, कुलक्षयेण कृतम् = कुलक्षयकृतम् तं कुलक्षयकृतम्",
+          "G": "विशेषणम् 13",
+          "H": "-",
+          "I": "कुल_के_नाश_से_उत्पन्न",
+          "J": "accruing_from_the_destruction_of_one's_family",
+          "K": "-",
+          "L": "-",
+          "M": "LGLLLG"
+        }
+      },
+      {
+        "pada": "दोषम्",
+        "rows": {
+          "A": "दोषम्",
+          "B": "दोषं",
+          "C": "दोस्{पुं}{2;एक}/दोष{पुं}{2;एक}",
+          "D": "दोष{पुं}{2;एक}",
+          "E": "-",
+          "F": "-",
+          "G": "कर्म 21",
+          "H": "-",
+          "I": "दोष_को",
+          "J": "foul_deed",
+          "K": "-",
+          "L": "-",
+          "M": "GG"
+        }
+      },
+      {
+        "pada": "प्रपश्यद्भिः",
+        "rows": {
+          "A": "प्रपश्यद्भिः",
+          "B": "प्रपश्यद्भिर्जनार्दन",
+          "C": "प्रपश्यत्{पुं}{3;बहु}/प्रपश्यत्{नपुं}{3;बहु}",
+          "D": "प्रपश्यत्{पुं}{3;बहु}",
+          "E": "-",
+          "F": "-",
+          "G": "विशेषणम् 15",
+          "H": "-",
+          "I": "जाननेवाले",
+          "J": "by_those_who_can_see_clearly",
+          "K": "-",
+          "L": "रेफ-सन्धिः (ससजुषो रुः (8।2।66))",
+          "M": "LGGGLGLL"
+        }
+      },
+      {
+        "pada": "अस्माभिः",
+        "rows": {
+          "A": "अस्माभिः",
+          "B": "-",
+          "C": "अस्मद्{3;बहु}",
+          "D": "अस्मद्{3;बहु}",
+          "E": "-",
+          "F": "-",
+          "G": "कर्ता 21",
+          "H": "-",
+          "I": "हमको",
+          "J": "by_us"
+        }
+      },
+      {
+        "pada": "अस्मात्",
+        "rows": {
+          "A": "अस्मात्",
+          "B": "-",
+          "C": "इदम्{पुं}{5;एक}/इदम्{नपुं}{5;एक}",
+          "D": "इदम्{नपुं}{5;एक}",
+          "E": "-",
+          "F": "-",
+          "G": "विशेषणम् 17",
+          "H": "-",
+          "I": "इस",
+          "J": "from_these"
+        }
+      },
+      {
+        "pada": "पापात्",
+        "rows": {
+          "A": "पापात्",
+          "B": "पापादस्मान्निवर्तितुम्",
+          "C": "पाप{पुं}{5;एक}/पाप{नपुं}{5;एक}",
+          "D": "पाप{नपुं}{5;एक}",
+          "E": "-",
+          "F": "-",
+          "G": "अपादानम् 18",
+          "H": "-",
+          "I": "पाप_से",
+          "J": "from_sins",
+          "K": "-",
+          "L": "जश्त्व-सन्धिः (झलां जशोऽन्ते (8।2।39)) / अनुनासिक-सन्धिः (यरोऽनुनासिकेऽनुनासिको वा (8।4।45))",
+          "M": "GGGGLGLL"
+        }
+      },
+      {
+        "pada": "निवर्तितुम्",
+        "rows": {
+          "A": "निवर्तितुम्",
+          "B": "-",
+          "C": "निवर्तितुम्",
+          "D": "नि_वृत्{कृत्_प्रत्ययः:तुमुन्;नि_वृतुँ;भ्वादिः}",
+          "E": "-",
+          "F": "-",
+          "G": "प्रयोजनम् 21",
+          "H": "-",
+          "I": "हटने_के_लिये",
+          "J": "desisting_from_committing"
+        }
+      },
+      {
+        "pada": "कथम्",
+        "rows": {
+          "A": "कथम्",
+          "B": "कथं",
+          "C": "कथम्{अव्य}",
+          "D": "कथम्{अव्य}",
+          "E": "-",
+          "F": "-",
+          "G": "क्रियाविशेषणम् 21",
+          "H": "-",
+          "I": "क्यों",
+          "J": "why",
+          "K": "-",
+          "L": "-",
+          "M": "LG"
+        }
+      },
+      {
+        "pada": "न",
+        "rows": {
+          "A": "न",
+          "B": "न",
+          "C": "न{अव्य}",
+          "D": "न{अव्य}",
+          "E": "-",
+          "F": "-",
+          "G": "सम्बन्धः 21",
+          "H": "-",
+          "I": "नहीं",
+          "J": "should_not",
+          "K": "-",
+          "L": "-",
+          "M": "L"
+        }
+      },
+      {
+        "pada": "ज्ञेयम्",
+        "rows": {
+          "A": "ज्ञेयम्",
+          "B": "ज्ञेयमस्माभिः",
+          "C": "ज्ञेय{पुं}{2;एक}/ज्ञेय{नपुं}{1;एक}/ज्ञेय{नपुं}{2;एक}",
+          "D": "ज्ञा{कृत्_प्रत्ययः:यत्;ज्ञा;क्र्यादिः;नपुं}{1;एक}",
+          "E": "-",
+          "F": "-",
+          "G": "-",
+          "H": "-",
+          "I": "विचार_करना_चाहिये",
+          "J": "think_of",
+          "K": "-",
+          "L": "-",
+          "M": "GGGGG"
+        }
+      }
+    ]
+  }
 }
