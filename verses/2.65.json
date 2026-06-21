@@ -2,8 +2,8 @@
   "id": "2.65",
   "chapter": 2,
   "verse_number": 65,
-  "text_sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते । प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ॥ २-६५ ॥",
-  "itrans": "prasAde sarvaduHkhAnA.n hAnirasyopajAyate . prasannachetaso hyAshu buddhiH paryavatiShThate .. 2-65 ..",
+  "text_sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते । प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठति ॥ २-६५ ॥",
+  "itrans": "prasAde sarvaduHkhAnA.n hAnirasyopajAyate . prasannachetaso hyAshu buddhiH paryavatiShThati .. 2-65 ..",
   "translation": "Serenity rising, the extinction of all his miseries comes about; for, the perception of him who is of it serene mind soon becomes steadied.",
   "commentary": {},
   "analysis": {
@@ -165,12 +165,12 @@
         }
       },
       {
-        "pada": "पर्यवतिष्ठते",
+        "pada": "पर्यवतिष्ठति",
         "rows": {
-          "A": "पर्यवतिष्ठते",
-          "B": "पर्यवतिष्ठते",
-          "C": "पर्यवतिष्ठते",
-          "D": "परि_अव_स्था{कर्तरि;लट्;प्र;एक;आत्मनेपदी;परि_अव_ष्ठा;भ्वादिः}",
+          "A": "पर्यवतिष्ठति",
+          "B": "पर्यवतिष्ठति",
+          "C": "पर्यवतिष्ठति",
+          "D": "परि_अव_स्था{कर्तरि;लट्;प्र;एक;परस्मैपदम्;परि_अव_ष्ठा;भ्वादिः}",
           "E": "-",
           "F": "-",
           "G": "-",
